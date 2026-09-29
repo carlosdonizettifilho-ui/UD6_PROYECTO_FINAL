@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 60" width="420" height="60" role="img" aria-label="IAT ODISSEA Ceuta. Cofinanciado por la Unión Europea, FEDER">
+  <!--
+    PLACEHOLDER institutional footer for the YouBox.Fit web pitch.
+    This is NOT an official logo. The ODISSEA wordmark and the EU-flag-style emblem are
+    simple typographic/geometric stand-ins until the team supplies the official
+    IAT ODISSEA / Ciudad de Ceuta / Unión Europea-FEDER brand files.
+    Replace this file with the official artwork before any public or institutional use.
+  -->
+  <title>IAT ODISSEA · Ceuta — Cofinanciado por la Unión Europea · FEDER</title>
+  <g font-family="Inter, Arial, sans-serif" fill="#FFFFFF">
+    <text x="0" y="37" font-size="20" font-weight="800" letter-spacing="3.2">ODISSEA</text>
+    <rect x="119" y="14" width="1" height="32" fill="#FFFFFF" fill-opacity="0.35"/>
+    <text x="131" y="26" font-size="11.5" font-weight="700" letter-spacing="0.3">IAT ODISSEA · Ceuta</text>
+    <text x="131" y="42" font-size="10" font-weight="400" fill-opacity="0.85">Cofinanciado por la Unión Europea · FEDER</text>
+  </g>
+  <g>
+    <rect x="356" y="11.5" width="56" height="37" rx="1.5" fill="#003399"/>
+    <g fill="#FFCC00">
+      <polygon points="384.00,16.90 384.50,18.31 386.00,18.35 384.81,19.26 385.23,20.70 384.00,19.85 382.77,20.70 383.19,19.26 382.00,18.35 383.50,18.31"/>
+      <polygon points="389.50,18.37 390.00,19.79 391.50,19.82 390.31,20.74 390.73,22.17 389.50,21.32 388.27,22.17 388.69,20.74 387.50,19.82 389.00,19.79"/>
+      <polygon points="393.53,22.40 394.03,23.81 395.52,23.85 394.33,24.76 394.76,26.20 393.53,25.35 392.29,26.20 392.72,24.76 391.53,23.85 393.03,23.81"/>
+      <polygon points="395.00,27.90 395.50,29.31 397.00,29.35 395.81,30.26 396.23,31.70 395.00,30.85 393.77,31.70 394.19,30.26 393.00,29.35 394.50,29.31"/>
+      <polygon points="393.53,33.40 394.03,34.81 395.52,34.85 394.33,35.76 394.76,37.20 393.53,36.35 392.29,37.20 392.72,35.76 391.53,34.85 393.03,34.81"/>
+      <polygon points="389.50,37.43 390.00,38.84 391.50,38.88 390.31,39.79 390.73,41.23 389.50,40.38 388.27,41.23 388.69,39.79 387.50,38.88 389.00,38.84"/>
+      <polygon points="384.00,38.90 384.50,40.31 386.00,40.35 384.81,41.26 385.23,42.70 384.00,41.85 382.77,42.70 383.19,41.26 382.00,40.35 383.50,40.31"/>
+      <polygon points="378.50,37.43 379.00,38.84 380.50,38.88 379.31,39.79 379.73,41.23 378.50,40.38 377.27,41.23 377.69,39.79 376.50,38.88 378.00,38.84"/>
+      <polygon points="374.47,33.40 374.97,34.81 376.47,34.85 375.28,35.76 375.71,37.20 374.47,36.35 373.24,37.20 373.67,35.76 372.48,34.85 373.97,34.81"/>
+      <polygon points="373.00,27.90 373.50,29.31 375.00,29.35 373.81,30.26 374.23,31.70 373.00,30.85 371.77,31.70 372.19,30.26 371.00,29.35 372.50,29.31"/>
+      <polygon points="374.47,22.40 374.97,23.81 376.47,23.85 375.28,24.76 375.71,26.20 374.47,25.35 373.24,26.20 373.67,24.76 372.48,23.85 373.97,23.81"/>
+      <polygon points="378.50,18.37 379.00,19.79 380.50,19.82 379.31,20.74 379.73,22.17 378.50,21.32 377.27,22.17 377.69,20.74 376.50,19.82 378.00,19.79"/>
+    </g>
+  </g>
+</svg>
